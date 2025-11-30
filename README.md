@@ -281,5 +281,3 @@ This project is licensed under the MIT License.
 - [Issues](https://github.com/RohitMangale/DeHire/issues)
 
 ---
-
-⭐ Star this repo if you find it helpful!
