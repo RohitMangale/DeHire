@@ -89,7 +89,20 @@ A blockchain-based freelance marketplace built on Ethereum that connects freelan
 ### Prerequisites
 - Docker Desktop installed
 
-### Quick Start with Docker
+### Quick Start with Pre-built Image
+
+Pull and run the pre-built image from Docker Hub:
+
+```bash
+docker pull rohitmangale/dehire:latest
+docker run -d -p 3000:80 rohitmangale/dehire:latest
+```
+
+Access the application at `http://localhost:3000`
+
+**Docker Hub Repository:** [rohitmangale/dehire](https://hub.docker.com/r/rohitmangale/dehire)
+
+### Quick Start with Docker Compose
 
 1. **Create environment file**
    ```bash
