@@ -287,10 +287,3 @@ This project is licensed under the MIT License.
 - MetaMask Team
 - React Community
 
-## 🔗 Links
-
-- [Live Demo](https://freelance-marketplace-blockchain-app.vercel.app/)
-- [Documentation](./DOCKER.md)
-- [Issues](https://github.com/RohitMangale/DeHire/issues)
-
----
